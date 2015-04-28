@@ -15,6 +15,8 @@ Based on
 	* Compass
 	* POPY-starter-HTML-SCSS
 
+- Susy (http://susy.oddbird.net/) - via CodeKit
+
 
 Author
 ==

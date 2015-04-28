@@ -3,6 +3,8 @@
 
 .DS_Store
 
+README.html
+
 .scssc
 .sass-cache/
 *.css
